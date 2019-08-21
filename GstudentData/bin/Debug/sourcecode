@@ -1,0 +1,53 @@
+
+<HTML>
+<HEAD>
+<TITLE>COSE60474 - SOFTWARE DEVELOPMENT FOR MOBILE COMPUTING APPLICATIONS 2</TITLE>
+<HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<link href="/css/home.css" rel="stylesheet" type="text/css" />
+<style>
+<!--
+	td {font-size: x-small}
+-->
+</style>
+</HEAD>
+<BODY>
+<center>
+<table border=0 cellspacing=0 cellpadding=0 width=640><tr><td width=100%>
+
+<table border=0 cellspacing=0 cellpadding=2 width=100% height=50>
+<tr>
+	<td width=147> &nbsp; <img src=http://www.staffs.ac.uk/images/logo.gif border=0><br></td>
+	<td width=100%><table border=0><tr><td><h2> &nbsp; Module Descriptor</h2></td></tr></table></td>
+	<td width=100 valign=top>05/12/2016</td>
+</tr>
+</table><br>
+<!-- CODE LINE --><TABLE BORDER=0 WIDTH=640><TR><TD width=70 align=right><b>Code: </b></TD><TD>COSE60474</TD><TD align=right><b>Version: </b></TD><TD>-</TD><TD align=right colspan=2><b>Approval Status: </b></TD><TD colspan=2>N/A</TD></TR><!-- TITLE LINE --><TR><TD width=70 align=right><b>Title: </b></TD><TD colspan=5>SOFTWARE DEVELOPMENT FOR MOBILE COMPUTING APPLICATIONS 2</td></TR><!-- SECTION LINE --><TR><TD width=70 align=right><b>Section: </b></TD><TD colspan=3>Faculty of Computing, Engineering and Sciences</TD><TD align=right>&nbsp;</TD><TD></TD><TD align=right><b>Level: </b></TD><TD>6</TR></TABLE>
+
+<!-- CONTACT START --><TABLE BORDER=1 WIDTH=100% CELLSPACING=0 CELLPADDING=2><TR><TD><b>Contact</b></TD><TD><b>E-mail Address</b></TD><TD><b>VLE</b></TD></TR><TD>Daryl Reeves</TD><TD><a href="mailto:Daryl.Reeves@staffs.ac.uk">Daryl.Reeves@staffs.ac.uk</a></TD><TD>-<br></TD></TR></TABLE>
+
+<!-- PATTERNSTART --><TABLE BORDER=0 WIDTH=100%><TR><TD WIDTH=100% colspan=5><B>Pattern Of Delivery</B></TD></TR><TR VALIGN=TOP><TD><TABLE BORDER=1 CELLPADDING=2 CELLSPACING=0 WIDTH=100%><TR><TD WIDTH=61><B>Credits</B></TD></TR><TR><TD ALIGN=CENTER>15</TD></TR></TABLE></TD><TD WIDTH=10></TD><TD WIDTH=50% VALIGN=TOP><TABLE BORDER=1 CELLPADDING=2 CELLSPACING=0 WIDTH=100%><TR><TD WIDTH=33%><B>Contact Hours</B></TD><TD WIDTH=33%><B>Independent Study Hours</B></TD><TD WIDTH=33%><B>Total Learning Hours</B></TD></TR><TR><TD ALIGN=CENTER>24</TD><TD ALIGN=CENTER>126</TD><TD ALIGN=CENTER>150</TD></TR></TABLE></TD><TD WIDTH=5></TD><TD ALIGN=RIGHT WIDTH=50% VALIGN=TOP><TABLE BORDER=1 CELLPADDING=2 CELLSPACING=0 WIDTH=100%><TR><TD WIDTH=100%><B>Description of Pattern of Delivery</B></TD></TR><TR><TD ALIGN=CENTER>Occurrence A, Stafford Campus, UG Semester 2</TD></TR><TR><TD ALIGN=CENTER>Occurrence A, Stafford Campus, UG Semester 2</TD></TR><TR><TD ALIGN=CENTER>Occurrence S, Stafford Campus, Z1~2 DO NOT USE</TD></TR><TR><TD ALIGN=CENTER>Occurrence S, Stafford Campus, Z1~2 DO NOT USE</TD></TR></TABLE></TD></TR></TABLE>
+
+<!-- SITESTART --><TABLE BORDER=1 CELLPADDING=2 CELLSPACING=0 WIDTH=123><TR><TD WIDTH=122><B>Site</B></TD></TR><TR><TD>Stafford Campus</TD></TR></TABLE>
+
+<!-- CONDITIONS START --><TABLE CELLSPACING=0 CELLPADDING=2 BORDER=1 WIDTH=100%><TR><TD><B>Registration Conditions</B></TD><TD><B>Module Version Condition Text</B></TD></TR><TR><TD>Contact Faculty</TD><TD>Contact Faculty</TD></TR></TABLE>
+
+<!-- MODULE DETAILS START --><TABLE BORDER=1 CELLPADDING=2 CELLSPACING=0 WIDTH=100%><TR><td colspan=2><B>Module Details</B></TD></TR><TR><TD>Module Special Admissions Requirements</TD><TD>Prior study of CE00371-4 Introduction to Software Development and CE00882-4 Object Oriented and Event Driven Programming.</td></tr><TR><TD>Module Resources</TD><TD>Mobile Development environment with emulators, such as iPhone development kit or Android SDK/Eclipse IDE for Mobile Developers<BR>Range of mobile devices for application deployment and testing<BR>Apple Mac lab for iPhone/iPod/iPad development</td></tr><TR><TD>Module Prospectus Information</TD><TD>This module is all about developing applications for smartphones such as Apple iPhone or Google Android. You will learn to use a mobile development environment with device emulators, as well as how to deploy and test your applications on real systems . You will explore the design issues involved in creating mobile applications, and in integrating mobile and web based systems. As this is a fst moving area, the mobile platform used will vary from year to year</td></tr><TR><TD>Module Indicative Content</TD><TD>Survey of mobile applications and platforms<BR>Introduction to a Development Environment and language for mobile application development <BR>Application structure, views, user interaction and controls data storage<BR>Programming using device APIs such as accelerometers, images, location and maps<BR>Interaction with web based systems<BR>Design and deployment issues for mobile applications</td></tr><TR><TD>Module Texts</TD><TD>Beginning iPhone 5 Development: Exploring the iOS 5 SDK<BR>Dave Mark, Jeff LaMarche and Jack Jutting<BR>Apress (2011)<BR>ISBN-10: 1430236051<BR>ISBN-13: 978-1430236054<BR><BR>Pro Android 4:<BR>Satya Komatineni and Dave MacLean<BR>Apress (2012)<BR>ISBN-10: 1430239301<BR>ISBN-13: 978-1430239307</td></tr><TR><TD>Module Additional Assessment Details</TD><TD>Portfolio of practical work weighted at 70% assessing learning outcomes 1 - 3.<BR>A test - 1 hour (30%) assessing learning outcomes 2 and 3.</td></tr><TR><TD>Module Learning Strategies</TD><TD>Lectures presenting key topics and concepts, supported by further directed reading to explore these concepts in depth.<BR>Practical based learning with exposure to hardware and software platforms, toolkits for designing and developing mobile applications.<BR>Formative, self-directed exercises to support transfer of knowledge and understanding.<BR>1 lecture and 1 x 2 hour practical per week.  The second hour of the practical session is unstaffed.<BR>(1:n)1  (1:20)1</td></tr></TABLE>
+
+<!-- LEARNING OUTCOMES START --><TABLE BORDER=1 CELLSPACING=0 CELLPADDING=2 WIDTH=100%><TR><td colspan=2 WIDTH=626><B>Learning Outcome</B></TD></TR><TR valign=top><TD rowspan=1>1) PROGRAM MOBILE APPLICATIONS.</TD><TD>Application</TD></TR>
+<TR valign=top><TD rowspan=2>2) SYSTEMATICALLY EXPLAIN AND EVALUATE A RANGE OF MOBILE SYSTEM DEVELOPMENT PARADIGMS AND ARCHITECTURES.</TD><TD>Analysis</TD></TR>
+<TD>Problem Solving</TD></TR>
+<TR valign=top><TD rowspan=2>3) ANALYSE AND APPRAISE TECHNIQUES FOR DESIGN AND IMPLEMENTATION OF MOBILE APPLICATIONS SOFTWARE.</TD><TD>Learning</TD></TR>
+<TD>Problem Solving</TD></TR>
+<TABLE>
+
+
+
+</td></tr></table>
+<br><br><br><br><br>
+</center>
+</BODY>
+
+<head>
+<HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+</head>
+</HTML>

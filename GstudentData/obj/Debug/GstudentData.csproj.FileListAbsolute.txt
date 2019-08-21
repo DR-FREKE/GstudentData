@@ -1,0 +1,49 @@
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.exe
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.pdb
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.csprojResolveAssemblyReference.cache
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.Properties.Resources.resources
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.csproj.GenerateResource.Cache
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+c:\users\mr jachris\documents\visual studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\bin\Debug\GstudentData.exe
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\bin\Debug\GstudentData.pdb
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.csprojResolveAssemblyReference.cache
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.Properties.Resources.resources
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.csproj.GenerateResource.Cache
+C:\Users\Mr Jachris\Desktop\GstudentData\GstudentData\obj\Debug\GstudentData.startform.resources
+C:\Users\Mr Jachris\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.mainform.resources
+C:\Users\Mr Jachris\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.Errormsg.resources
+C:\Users\Mr Jachris\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.SplashScreen.resources
+F:\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+F:\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+F:\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+D:\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+D:\GstudentData\GstudentData\bin\Debug\GstudentData.exe
+D:\GstudentData\GstudentData\bin\Debug\GstudentData.pdb
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.csprojResolveAssemblyReference.cache
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.Errormsg.resources
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.mainform.resources
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.Properties.Resources.resources
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.SplashScreen.resources
+D:\GstudentData\GstudentData\obj\Debug\GstudentData.csproj.GenerateResource.Cache
+J:\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+J:\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+J:\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.exe.config
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.exe
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.pdb
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.exe
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\bin\Debug\GstudentData.pdb
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.csprojResolveAssemblyReference.cache
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.Errormsg.resources
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.mainform.resources
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.Properties.Resources.resources
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.SplashScreen.resources
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.csproj.GenerateResource.Cache
+C:\Users\KingSolo\Documents\Visual Studio 2013\Projects\GstudentData\GstudentData\obj\Debug\GstudentData.Aggregate.resources
